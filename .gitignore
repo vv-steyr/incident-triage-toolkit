@@ -1,0 +1,20 @@
+# Environment and secrets
+.env
+.env.local
+*.token
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
